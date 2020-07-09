@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him
+
 <!--
 **dmcgill50/dmcgill50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
